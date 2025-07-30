@@ -18,6 +18,7 @@ No HEX editor needed, no manual edit needed.
 Try and enjoy!
 
 * Usage
+  
  1) Make a folder at where you want and just put D88DISKN.exe file into it. ex) 'B:\D88DISKN\D88DISKN.exe'
  2) Set D88DISKN folder in your path from AUTOEXEC.BAT. ex) 'path=B:\;B:\D88DISKN;'
  3) Reboot your PC-98 once to make your path setting enable.
@@ -26,7 +27,7 @@ Try and enjoy!
     If D88 files found, it will change disk name space(first 17 bytes) to blank by filling '00' first, and replace it with D88 filename.
  6) If your D88 images have long file name, PC-98 DOS will use 'xxxxxx~1.D88' style shortened file name and D88DISKN will use it for disk name.
 
-* Copyright
- I used ChatGPT for entire code of this.
- I didn't programmed at all for this program, I just explained my idea and ordered to code it.
- So I don't want to tell my copyright strongly. Just enjoy, fork and enhance it if you want :)
+* Copyright</p>
+  I used ChatGPT for entire code of this.<br>
+  I didn't programmed at all for this program, I just explained my idea and ordered to code it.<br>
+  So I don't want to tell my copyright strongly. Just enjoy, fork and enhance it if you want :)
